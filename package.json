@@ -1,0 +1,16 @@
+{
+  "name": "photo-cropper",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "start": "parcel src/index.html",
+    "build": "parcel build src/index.html"
+  },
+  "author": "",
+  "license": "ISC",
+  "description": "",
+  "dependencies": {
+    "cropperjs": "^2.0.0",
+    "parcel-bundler": "^1.12.5"
+  }
+}
